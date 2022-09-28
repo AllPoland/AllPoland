@@ -1,3 +1,5 @@
-AllPoland - Game Developer
+AllPoland
 
-I make video games in Unity
+I make stuff
+
+yeah
