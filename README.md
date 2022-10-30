@@ -1,4 +1,4 @@
-AllPoland
+All of Poland
 
 I make stuff
 
